@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CoreDemos\\demoapp\\demoapp\\demoapp.csproj": {}
+    "d:\\CoreDemos\\demoapp\\demoapp\\demoapp.csproj": {}
   },
   "projects": {
-    "D:\\CoreDemos\\demoapp\\demoapp\\demoapp.csproj": {
+    "d:\\CoreDemos\\demoapp\\demoapp\\demoapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CoreDemos\\demoapp\\demoapp\\demoapp.csproj",
+        "projectUniqueName": "d:\\CoreDemos\\demoapp\\demoapp\\demoapp.csproj",
         "projectName": "demoapp",
-        "projectPath": "D:\\CoreDemos\\demoapp\\demoapp\\demoapp.csproj",
+        "projectPath": "d:\\CoreDemos\\demoapp\\demoapp\\demoapp.csproj",
         "packagesPath": "C:\\Users\\vijayv\\.nuget\\packages\\",
-        "outputPath": "D:\\CoreDemos\\demoapp\\demoapp\\obj\\",
+        "outputPath": "d:\\CoreDemos\\demoapp\\demoapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
